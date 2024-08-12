@@ -1,6 +1,4 @@
-# 👋 Hey there, I'm Vlad!
-
-
+![Header](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDljYXR4czBqNzd4bzY4MGFpeDh3NWhxMjl5ZTV2N3Z0cGl1eDRuOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ebkfIyR4vM9ry/200.webp)
 ## 🚀 About Me
 - 🌱 **Currently learning:** TS React, but mostly just procrastinating
 - 💼 **Looking for:** Job, because I can't live on ramen forever

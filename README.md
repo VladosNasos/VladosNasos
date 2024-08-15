@@ -41,7 +41,7 @@
 
 ## 🌍 Socials and Contacts
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://bg.linkedin.com/in/bezzubko) – Professional stalking welcome
-- [![OnlyFans](https://img.shields.io/badge/-OnlyFans-000?&logo=OnlyFans)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) – Just a youtube link
+- [![OnlyFans](https://img.shields.io/badge/-OnlyFans-000?&logo=OnlyFans)](https://www.youtube.com/watch?v=dQw4w9WgXcQ) – If you want to know me deeper)
 - [![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)](https://github.com/VladosNasos) - I need third one for perfection
 - 📧 **Email:** [bezzzubkovlad@gmail.com](mailto:bezzzubkovlad@gmail.com), spam me, I dare you
 
